@@ -1,0 +1,18 @@
+#contenedor{
+	border: 0.5px solid grey;
+	width: 800px;
+}
+.caja{
+	width: 30%;
+	height: 120px;
+	float: right;
+}
+.uno{
+	background-color: #FFFF00;
+}
+.dos{
+	background-color: #3A81BA;
+}
+.tres{
+	background-color: #ED2251;
+}
